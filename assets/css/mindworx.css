@@ -703,7 +703,7 @@
   }
   
   /* Caption text */
-  .text {
+  #custom-styles-container .text {
     color: #f2f2f2;
     font-size: 15px;
     padding: 8px 12px;
